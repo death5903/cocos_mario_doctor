@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "blue_ani",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "37e987d1-3d67-479b-9869-756d7108337e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "6f99963e-fe65-47c0-8262-1b4fe8a900ec"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "4f4e1c7e-baa1-49ff-8973-64b9e0eecf0f"
+            }
+          },
+          {
+            "frame": 0.48333333333333334,
+            "value": {
+              "__uuid__": "4f4e1c7e-baa1-49ff-8973-64b9e0eecf0f"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

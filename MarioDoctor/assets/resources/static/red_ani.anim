@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "red_ani",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "43a0fb70-709b-4ce4-9d7e-093413969a61"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "8ba84d1b-2f49-4b3e-b432-66cf6ae601f7"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "cacf49bc-a7af-4c0c-a15f-6375d7d1eedf"
+            }
+          },
+          {
+            "frame": 0.48333333333333334,
+            "value": {
+              "__uuid__": "cacf49bc-a7af-4c0c-a15f-6375d7d1eedf"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
